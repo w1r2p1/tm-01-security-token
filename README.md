@@ -47,6 +47,6 @@ There is no ICO or utility token involved.
 
 For the security token issuance and other commercial questions please contact [TokenMarket Security Token Team](https://tokenmarket.net/security-token-offering).
 
-For technical questions please contact us in Gitter.
+For technical questions please contact us in [Gitter](https://gitter.im/Security-token-TM-01/Lobby).
 
 
