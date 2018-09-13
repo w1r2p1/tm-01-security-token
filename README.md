@@ -1,5 +1,7 @@
 # TM-01 Security Token
 
+[![Join the chat at https://gitter.im/Security-token-TM-01/Lobby](https://badges.gitter.im/Security-token-TM-01/Lobby.svg)](https://gitter.im/Security-token-TM-01/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 TM-01 is a programming framework for issuing, maintaining and publicly trading security tokens.
 
 ## Purpose 
