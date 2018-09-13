@@ -20,7 +20,7 @@ TM-01 aims for compliance for publicly traded securities in EMEA regions and pri
 * Singapore MAS Capital Market Intermediates - for primary issuance and private placements
 * USA SEC broker-dealer  - for primary issuance and accredited investors only
 
-# Structure
+## Structure
 
 The project is split to four different source code repositories
 
@@ -31,7 +31,7 @@ The project is split to four different source code repositories
 
 Each repository comes with a Python library, scripts and application to deal with the underlying activity. 
 
-# Technical compatibility
+## Technical compatibility
 
 The underlying smart contracts are written and tested under multiple Ethereum Virtual Machine implementations. They can run on the following blockchain chains
 
@@ -39,11 +39,11 @@ The underlying smart contracts are written and tested under multiple Ethereum Vi
 * Rootstock (RSK) public mainnet
 * Ethereum permissioned implementations, like Monax in IBM Hyperledger
 
-# Other
+## Other
 
 There is no ICO or utility token involved. 
 
-# Contact us
+## Contact us
 
 For the security token issuance and other commercial questions please contact [TokenMarket Security Token Team](https://tokenmarket.net/security-token-offering).
 
