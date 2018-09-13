@@ -35,7 +35,7 @@ The underlying smart contracts are written and tested under multiple Ethereum Vi
 
 * Ethereum public mainnet
 * Rootstock (RSK) public mainnet
-* Ethereum permissioned implementations like Moax
+* Ethereum permissioned implementations, like Monax in IBM Hyperledger
 
 # Other
 
@@ -43,6 +43,8 @@ There is no ICO or utility token involved.
 
 # Contact us
 
-For the security token issuance and trading please contact TokenMarket Security Token Team.
+For the security token issuance and other commercial questions please contact [TokenMarket Security Token Team](https://tokenmarket.net/security-token-offering).
+
+For technical questions please contact us in Gitter.
 
 
