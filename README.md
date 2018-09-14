@@ -17,7 +17,7 @@ TM-01 provides tools to integrate security tokens to IT services, like issuance 
 TM-01 aims for compliance for publicly traded securities in EMEA regions and private placements in USA. 
 
 * EU MIFID Multilateral Facility (MTF) for publicly traded securities
-* EU MIFID Investment Category 3 (CAT3) - for primary issuance and private placements
+* EU MIFID Investment Firm Category 3 (CAT3) - for primary issuance and private placements
 * Dubai DIFC Authorized Market Institution (AIM) for publicly traded securities
 * Singapore MAS Capital Market Intermediates - for primary issuance and private placements
 * USA SEC broker-dealer  - for primary issuance and accredited investors only
